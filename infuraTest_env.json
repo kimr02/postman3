@@ -1,0 +1,39 @@
+{
+	"id": "3be3fcba-7305-4fa7-87bf-d6660cb8bb42",
+	"name": "infuraTest",
+	"values": [
+		{
+			"key": "domain",
+			"value": "http://localhost:8545",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "from",
+			"value": "0x1830C3420FCD61AcA2C181f5aF94742A08FC53B5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "to",
+			"value": "0x7b2Fd5E52D82Cb8B68cE3094C9f490dD215ee068",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "amount",
+			"value": "0x683360005260206000f360005260096017f3",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "https://reqres.in",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-03-19T13:00:43.211Z",
+	"_postman_exported_using": "Postman/10.12.4"
+}
